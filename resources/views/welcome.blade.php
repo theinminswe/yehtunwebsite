@@ -33,26 +33,26 @@
       <div class="carousel-item active">
         <div class="carousel-container">
           <h2 class="animated fadeInDown">Welcome to <span>Freelance</span></h2>
-          <p class="animated fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
-          <a href="" class="btn-get-started animated fadeInUp">Read More</a>
+          <p class="animated fadeInUp"> To build strong teams with excellent IT engineers. To provide high-quality and cost-effective solutions. To develop IT products beneficial to our society. To build a solid trust with our customers and partners.</p>
+          <a href="#ourmission" class="btn-get-started animated fadeInUp">Read More</a>
         </div>
       </div>
 
       <!-- Slide 2 -->
       <div class="carousel-item">
         <div class="carousel-container">
-          <h2 class="animated fadeInDown">Lorem Ipsum Dolor</h2>
-          <p class="animated fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
-          <a href="" class="btn-get-started animated fadeInUp">Read More</a>
+          <h2 class="animated fadeInDown">Our Care</h2>
+          <p class="animated fadeInUp"> We respect diversity and make it our strength. We create comfortable work environment for every religion and ethnic background. We keep challenging to the latest IT technology. We promise not only low cost but also high-quality products.</p>
+          <a href="#ourcare" class="btn-get-started animated fadeInUp" >Read More</a>
         </div>
       </div>
 
       <!-- Slide 3 -->
       <div class="carousel-item">
         <div class="carousel-container">
-          <h2 class="animated fadeInDown">Sequi ea ut et est quaerat</h2>
-          <p class="animated fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
-          <a href="" class="btn-get-started animated fadeInUp">Read More</a>
+          <h2 class="animated fadeInDown">Our Vision</h2>
+          <p class="animated fadeInUp">To be a leading Freelancer in Myanmar</p>
+          <a href="#ourvision" class="btn-get-started animated fadeInUp">Read More</a>
         </div>
       </div>
 
@@ -88,10 +88,10 @@
       <div class="container">
 
         <div class="row">
-          <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
+          <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up" id="ourmission">
             <div class="card">
               <div class="card-img">
-                <img src="assets/img/features-1.svg" alt="...">
+                <img src="assets/img/features_6.jpg" alt="...">
               </div>
               <div class="card-body">
                 <h5 class="card-title"><a href="#">Our Mission</a></h5>
@@ -107,7 +107,7 @@
           <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
             <div class="card">
               <div class="card-img">
-                <img src="assets/img/features-2.svg" alt="...">
+                <img src="assets/img/bank.jpg" alt="...">
               </div>
               <div class="card-body">
                 <h5 class="card-title"><a href="#">Our Plan</a></h5>
@@ -116,10 +116,10 @@
             </div>
 
           </div>
-          <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
+          <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up" id="ourvision">
             <div class="card">
               <div class="card-img">
-                <img src="assets/img/features-3.svg" alt="...">
+                <img src="assets/img/maxresdefault.jpg" alt="...">
               </div>
               <div class="card-body">
                 <h5 class="card-title"><a href="#">Our Vision</a></h5>
@@ -127,10 +127,10 @@
               </div>
             </div>
           </div>
-          <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
+          <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up" id="ourcare">
             <div class="card">
               <div class="card-img">
-                <img src="assets/img/features-4.svg" alt="...">
+                <img src="assets/img/retailhero.jpg" alt="...">
               </div>
               <div class="card-body">
                 <h5 class="card-title"><a href="#">Our Care</a></h5>
@@ -154,33 +154,34 @@
       <div class="container">
 
       <div class="row">
-          <div class="col-md-8 col-lg-3 align-items-stretch hov" data-aos="fade-up">
+          <div class="col-md-4  align-items-stretch hov" data-aos="fade-up"  data-aos-delay="100">
             <div class="icon-box icon-box-pink">
               <div class="icon"><i class="bx bxl-dribbble"></i></div>
-              <h4 class="title"><a href="">Website Development</a></h4>
+              <h6 class="title"><a href="{{url('/service')}}">Website Development</a></h6>
               
             </div>
           </div>
 
-          <div class="col-md-8 col-lg-3 align-items-stretch hov" data-aos="fade-up" data-aos-delay="100">
+          <div class="col-md-4   align-items-stretch hov" data-aos="fade-up" data-aos-delay="100">
             <div class="icon-box icon-box-cyan">
               <div class="icon"><i class="bx bx-file"></i></div>
-              <h4 class="title"><a href="">Offshore Software Development</a></h4>
+              <h6 class="title"><a href="{{url('/service')}}">Offshore Software Development</a></h6>
               
             </div>
           </div>
 
-          <div class="col-md-8 col-lg-3 align-items-stretch hov" data-aos="fade-up" data-aos-delay="200">
+          <div class="col-md-4  align-items-stretch hov" data-aos="fade-up" data-aos-delay="100">
             <div class="icon-box icon-box-green">
               <div class="icon"><i class="bx bx-tachometer"></i></div>
-              <h4 class="title"><a href="">Web Application Development</a></h4>
+              <h6 class="title"><a href="{{url('/service')}}">Web Application Development</a></h6>
             </div>
+            
           </div>
 
-          <div class="col-md-8 col-lg-3 align-items-stretch hov" data-aos="fade-up" data-aos-delay="200">
+          <div class="col-md-4  align-items-stretch hov" data-aos="fade-up" data-aos-delay="100">
             <div class="icon-box icon-box-blue">
               <div class="icon"><i class="bx bx-world"></i></div>
-              <h4 class="title"><a href="">Better Business</a></h4>
+              <h6 class="title"><a href="{{url('/service')}}">Better Business</a></h6>
             </div>
           </div>
 

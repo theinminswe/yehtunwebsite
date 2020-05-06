@@ -104,16 +104,10 @@ Package Software and Business Processes outsourcing services.</p>
             <img src="{{url('assets/img/features-4.svg')}}" class="img-fluid" alt="">
           </div>
           <div class="col-md-7 pt-5 order-2 order-md-1">
-            <h3>Quas et necessitatibus eaque impedit ipsum animi consequatur incidunt in</h3>
-            <p class="font-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
-            </p>
-            <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum
-            </p>
+            <h3>Better Business</h3>
+            <ul>
+              <li><i class="icofont-check"></i> You business need IT Application integrated.</li>
+            </ul>
           </div>
         </div>
 
@@ -123,7 +117,7 @@ Package Software and Business Processes outsourcing services.</p>
     
 
     <!-- ======= Services Section ======= -->
-    <section class="services">
+    <!-- <section class="services">
       <div class="container">
 
         <div class="row">
@@ -162,7 +156,8 @@ Package Software and Business Processes outsourcing services.</p>
         </div>
 
       </div>
-    </section><!-- End Services Section -->
+    </section> -->
+    <!-- End Services Section -->
 
     <!-- ======= Why Us Section ======= -->
     <section class="why-us section-bg" data-aos="fade-up" date-aos-delay="200">
