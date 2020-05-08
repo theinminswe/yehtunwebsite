@@ -32,7 +32,7 @@
       <!-- Slide 1 -->
       <div class="carousel-item active">
         <div class="carousel-container">
-          <h2 class="animated fadeInDown">Welcome to <span>Freelance</span></h2>
+          <h2 class="animated fadeInDown">Our Mission</h2>
           <p class="animated fadeInUp"> To build strong teams with excellent IT engineers. To provide high-quality and cost-effective solutions. To develop IT products beneficial to our society. To build a solid trust with our customers and partners.</p>
           <a href="#ourmission" class="btn-get-started animated fadeInUp">Read More</a>
         </div>
