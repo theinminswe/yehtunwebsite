@@ -59,7 +59,7 @@ Package Software and Business Processes outsourcing services.</p>
 
         <div class="row" data-aos="fade-up">
           <div class="col-md-5">
-            <img src="assets/img/features-1.svg" class="img-fluid" alt="">
+            <img src="assets/img/about-img.svg" class="img-fluid" alt="">
           </div>
           <div class="col-md-7 pt-4">
             <h3>Website Development</h3>
@@ -74,7 +74,7 @@ Package Software and Business Processes outsourcing services.</p>
 
         <div class="row" data-aos="fade-up">
           <div class="col-md-5 order-1 order-md-2">
-            <img src="assets/img/features-2.svg" class="img-fluid" alt="">
+            <img src="assets/img/features-1.svg" class="img-fluid" alt="">
           </div>
           <div class="col-md-7 pt-5 order-2 order-md-1">
             <h3>Offshore Software Development</h3>
@@ -101,7 +101,7 @@ Package Software and Business Processes outsourcing services.</p>
 
         <div class="row" data-aos="fade-up">
           <div class="col-md-5 order-1 order-md-2">
-            <img src="{{url('assets/img/features-4.svg')}}" class="img-fluid" alt="">
+            <img src="{{url('assets/img/about-extra-2.svg')}}" class="img-fluid" alt="">
           </div>
           <div class="col-md-7 pt-5 order-2 order-md-1">
             <h3>Better Business</h3>

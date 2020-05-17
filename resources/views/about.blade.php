@@ -49,7 +49,7 @@
 
         <div class="row">
           <div class="col-lg-6">
-            <img src="assets/img/Web-Developer-Job-Description.jpg" class="img-fluid" alt="">
+            <img src="assets/img/about-extra-1.svg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0">
             <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>

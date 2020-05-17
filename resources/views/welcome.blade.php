@@ -107,7 +107,7 @@
           <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
             <div class="card">
               <div class="card-img">
-                <img src="assets/img/bank.jpg" alt="...">
+                <img src="assets/img/data-science-jobs.jpg" alt="...">
               </div>
               <div class="card-body">
                 <h5 class="card-title"><a href="#">Our Plan</a></h5>
@@ -119,7 +119,7 @@
           <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up" id="ourvision">
             <div class="card">
               <div class="card-img">
-                <img src="assets/img/maxresdefault.jpg" alt="...">
+                <img src="assets/img/workforce.jpg" alt="...">
               </div>
               <div class="card-body">
                 <h5 class="card-title"><a href="#">Our Vision</a></h5>
