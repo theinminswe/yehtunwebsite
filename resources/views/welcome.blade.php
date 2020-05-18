@@ -130,7 +130,7 @@
           <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up" id="ourcare">
             <div class="card">
               <div class="card-img">
-                <img src="assets/img/retailhero.jpg" alt="...">
+                <img src="assets/img/hero-img.png" alt="...">
               </div>
               <div class="card-body">
                 <h5 class="card-title"><a href="#">Our Care</a></h5>
